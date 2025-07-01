@@ -337,8 +337,8 @@ It is not impossible but close to impossible
 - It takes 6 hours of undisturbed labor in a place where the Magic is the strongest
 - Roll 1d4:
   - 1: Fail
-  - 2-5: The Spirits Spell is captured in the **Grimoire**
-  - 6: Both the Spirit's spell and the original spell its created from captured in the **Grimoire**
+  - 2-5: The Spirit's Spell is captured in the **Grimoire**
+  - 6: Both the Spirit's spell and the spell its originated from captured in the **Grimoire**
 
 ## Tables
 

@@ -1,10 +1,3 @@
----
-layout: default
-title: Marketplace
-parent: Player's Guide
-grand_parent: Dice and Magic Hack Edition
----
-
 # Marketplace
 
 > All prices are in gold pieces
@@ -26,7 +19,6 @@ grand_parent: Dice and Magic Hack Edition
 | Buckle (1d4)            | 10  |
 | Heater (1d4, +1 Armor)  | 30  |
 | Pavise (1d6, _bulky_)   | 50  |
-
 
 ## Weapons
 
@@ -77,7 +69,6 @@ grand_parent: Dice and Magic Hack Edition
 | Tracker           | 5   |
 | Trapper           | 5   |
 | Veteran Bodyguard | 20  |
-
 
 ## Gear
 

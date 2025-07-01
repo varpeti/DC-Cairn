@@ -4,20 +4,6 @@ This is a TTRPG rule set based on the wonderful [Cairn](https://cairnrpg.com/)
 
 It is work in progress, and not yet ready to be play tested.
 
-## What is the aim of the project?
-
-- Ruling over Rules
-- Hackable
-- Story driven
-- Flexible, role-play heavy
-- Easy to start
-- Fast to play
-- Multiple dice (because we love rolling a handful)
-- Contested Checks vs Difficulty or Other rolls
-- Magic [GLOG Magic Hack](https://cairnrpg.com/hacks/glog-magic/) [Goblin Punch](goblinpunch.blogspot.com)
-- More Items
-- Character progression (meta, items, attributes, spells)
-
 ## The Book
 
 - [Overview and Principles](/overview-and-principles.md)

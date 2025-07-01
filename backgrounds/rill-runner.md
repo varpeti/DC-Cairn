@@ -1,10 +1,3 @@
----
-title: Rill Runner
-layout: default
-parent: Backgrounds
-grand_parent: Dice and Magic Hack Edition
----
-
 # Rill Runner
 
 > You sing the stories of rivers and lakes, your talents soothing friends and the elements alike. You've seen more than most, but somehow it never seems to be enough.
@@ -17,7 +10,7 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torch (3 uses) 
+- Torch (3 uses)
 - Water Shoes
 - Brigandine (1 Armor, _bulky_)
 - Compass
@@ -25,22 +18,22 @@ Gale, Piper, Brook, Adair, Stone, Dale, Wren, Cliff, Rain, Robin
 
 ## What songs are you best known for? Roll 1d6:
 
-|       |                                                                                                                                                                                                                                          |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | _The Tinker's Two-Step_. A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                                       |
-| **2** | _The Sylph and Her Lover_. A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                         |
-| **3** | _Harper's Devotion_. A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                                              |
-| **4** | _The Reed Fisher_. A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant.                              |
-| **5** | _Song of the Silver Stream_. A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                             |
-| **6** | _The Thrush and the Meadow_. A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points. |
+|       |                               |                                                                                                                                                                                                    |
+| ----- | --                            | --                                                                                                                                                                                                 |
+| **1** | **The Tinker's Two-Step**     | A humorous fairy tale about a gift-giving traveler. Start with a **Reed Whistle**. Anyone in earshot must pass a WIL save to perform an act of violence.                                           |
+| **2** | **The Sylph and Her Lover**   | A bawdy tale of lost love. Start with a **Breeze Knot** (3 charges). Creates a strong breeze. **Recharge**: Tie it to a mast during a storm.                                                       |
+| **3** | **Harper's Devotion**         | A sad, short tale about a musician that falls in love with a star. Start with a **Celestial Lute**. Reveals the constellations above, no matter the weather.                                       |
+| **4** | **The Reed Fisher**           | A celebrated song about a massive carp that always seems to get away. Begin with a spool of **River Twine** (5 uses). Each dip into the river guarantees a catch, though it might not be pleasant. |
+| **5** | **Song of the Silver Stream** | A wordless lullaby that mimics flowing water. Take a **Stone Flute** that can calm almost any river.                                                                                               |
+| **6** | **The Thrush and the Meadow** | A moody tale told in alternating chorus. Start with a **Feather Quill** (1 use, _petty_). A map drawn with this quill reveals the most expedient course between any two points.                    |
 
 ## What pays your way across the land? Roll 1d6:
 
-|       |                     |                                                                                                                                             |
-| ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                          |
-| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                          |
-| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/cairn/dice-and-magic-hack-edition/players-guide/marketplace#gear) table.                              |
-| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                        |                                                    
-| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.  |
-| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey. |
+|       |                     |                                                                                                                                                           |
+| ----- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------               |
+| **1** | **Performance**     | Performing at taverns always yields both room and board. Sometimes you even get tips! Start with an extra **10gp**.                                       |
+| **2** | **Bodyguard**       | You are a protector for those afraid to travel alone. Start with a **Rapier** (d8).                                                                       |
+| **3** | **Wares**           | You buy low and sell high, always making just enough to get by. Take a **single item** worth **20gp** (or less) from the [gear](/marketplace#gear) table. |
+| **4** | **Transport**       | You deliver "delicate" packages throughout the lands. You have at least one contact in any major town.                                                    |
+| **5** | **Sailor's Friend** | Over troubled waters and dangerous winds, you always make sure a ship reaches its destination. For you, passage is always free.                           |
+| **6** | **Guide**           | You shepherd caravans and travelers across water-soaked lands. Start a **map** (_petty_) relevant to your next journey.                                   |
