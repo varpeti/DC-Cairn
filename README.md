@@ -8,10 +8,9 @@ It is work in progress.
 
 - [Overview and Principles](/overview-and-principles.md)
 - [Core Rules](/core-rules.md)
-  - [Spells](/spells.md)
 - [Character Creation](/character-creation.md)
-  - [Backgrounds](/backgrounds)
-  - [Marketplace](/marketplace.md)
+- [Spells](/spells.md)
+- [Marketplace](/marketplace.md)
 
 ## Character Sheet
 
