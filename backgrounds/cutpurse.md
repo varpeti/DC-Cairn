@@ -11,7 +11,7 @@ Arlo, Lyra, Eamon, Salina, Elara, Freya, Bull, Sparrow, Ivy, Silas
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses)
-- Twin Daggers (d6 with Advantage, _bulky_)
+- Twin Daggers ([Advantage](/core-rules.md#advantage-and-disadvantage)(d6), _bulky_)
 - Padded Leather (1 Armor)
 - Lockpicks
 - Black Outfit (_petty_)

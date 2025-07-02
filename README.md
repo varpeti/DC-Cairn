@@ -2,7 +2,7 @@
 
 This is a TTRPG rule set based on the wonderful [Cairn](https://cairnrpg.com/)
 
-It is work in progress, and not yet ready to be play tested.
+It is work in progress.
 
 ## The Book
 
@@ -12,6 +12,10 @@ It is work in progress, and not yet ready to be play tested.
 - [Character Creation](/character-creation.md)
   - [Backgrounds](/backgrounds/backgrounds.md)
   - [Marketplace](/marketplace.md)
+
+## Character Sheet
+
+![Character Sheet](./character_sheet/Cairn-CharacterSheet.png)
 
 ## License
 

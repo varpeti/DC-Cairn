@@ -4,7 +4,9 @@
 
 - First, choose (or roll) from the [Backgrounds](#backgrounds) table and open it up. You will refer to that for the next few steps.
 - Choose a name, then record each of your character's starting items. See [Inventory](/core-rules.md#inventory) and [Inventory Slots](/core-rules.md#inventory-slots) for how to record items.
-- Choose (or roll) on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/marketplace.md) as well.
+- Choose (or roll) on each of the included tables in the background. Record your character's items, skills, or abilities from each result.
+  - Some backgrounds may ask you to refer to the tables in the [Marketplace](/marketplace.md) as well.
+  - If you have to _random_ spell in a [Grimoire](/core-rules.md#grimoire) or [Spell scroll](/core-rules.md#spell-scrolls) roll 3 times d6 on the [Spell Table](/spells.md#spell-list)
 
 ## Attributes, Hit Protection, Traits, Bonds, Omens
 

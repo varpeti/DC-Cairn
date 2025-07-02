@@ -81,7 +81,7 @@
 | Book                                               | 50  |
 | Caltrops                                           | 10  |
 | Card Deck                                          | 5   |
-| Chain (10ft)                                       | 10  |
+| Chain (3m = 2 Space = 10ft)                        | 10  |
 | Chalk (_petty_)                                    | 1   |
 | Chest                                              | 25  |
 | Chisel                                             | 5   |
@@ -105,9 +105,9 @@
 | Oil Can (6 uses)                                   | 10  |
 | Outdoor Comfort (Blanket, Hammock, etc.)           | 10  |
 | Parchment (3 uses)                                 | 10  |
-| Pole (10ft)                                        | 5   |
+| Pole (3m = 2 Spaces = 10ft)                        | 5   |
 | Repellent (Wolfsbane, Mugwort, etc.)               | 10  |
-| Rope (25ft)                                        | 5   |
+| Rope (7.5m = 5 Spaces = 25ft)                      | 5   |
 | Sedative                                           | 30  |
 | Sewing Kit                                         | 20  |
 | Simple Instruments (Pipes, Lute, etc.)             | 10  |
@@ -297,15 +297,15 @@ Salaries presented as wage per week. For treasure percentage, refer to the ficti
 | Book                  | 50       | Net                         | 10       |
 | Bucket                | 5        | Oil (1 flask)               | 2        |
 | Caltrops              | 10       | Oilskin Bag                 | 5        |
-| Chain (10ft)          | 10       | Perfume (oz)                | 15       |
+| Chain (3m)            | 10       | Perfume (oz)                | 15       |
 | Chalk                 | 1        | Pick                        | 10       |
 | Chisel                | 5        | Pipe                        | 3        |
 | Cook Pots             | 10       | Pulley                      | 10       |
-| Crowbar               | 10       | Pole (10ft)                 | 5        |
+| Crowbar               | 10       | Pole (3m)                   | 5        |
 | Dowsing rod           | 10       | Quill & Ink                 | 10       |
 | Drill (Manual)        | 10       | Rations (three day’s worth) | 10       |
-| Face Paint            | 10       | Rope (25ft)                 | 5        |
-| Fire Oil              | 10       | Rope ladder (25ft)          | 25       |
+| Face Paint            | 10       | Rope (7.5m)                 | 5        |
+| Fire Oil              | 10       | Rope ladder (7.5m)          | 25       |
 | Fishing Rod           | 10       | Saw                         | 5        |
 | Glass Marbles         | 5        | Sack                        | 5        |
 | Glue                  | 5        | Saddle and bridle           | 25       |
@@ -317,7 +317,7 @@ Salaries presented as wage per week. For treasure percentage, refer to the ficti
 | Horn                  | 10       | Spyglass                    | 40       |
 | Hourglass             | 50       | Stakes (3) and mallet       | 3        |
 | Incense               | 10       | Tar                         | 10       |
-| Ladder (bulky, 10ft)  | 10       | Tent (fits 2 people, bulky) | 20       |
+| Ladder (bulky, 3m)   | 10       | Tent (fits 2 people, bulky) | 20       |
 | Lantern & Oil         | 10       | Tinder box (flint & steel)  | 3        |
 | Lock - (key included) | 30       | Torch                       | 1        |
 | Large Trap            | 20       | Waterskin                   | 1        |

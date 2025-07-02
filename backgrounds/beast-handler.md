@@ -14,7 +14,7 @@ Amara, Wulf, Mireille, Soren, Freki, Aster, Gerrik, Boreas, Veda, Matheus
 - Leather Whip (d6)
 - Soporific Darts (STR save or fall asleep, 6 uses)
 - Lure
-- Rope (25ft)
+- Rope (7.5m = 5 Space = 25ft)
 
 ## What creature is your specialty? Roll 1d6:
 
