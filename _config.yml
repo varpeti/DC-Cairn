@@ -1,0 +1,24 @@
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-remote-theme
+
+markdown: kramdown
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md
+
+minima:
+  skin: dark
+  nav_pages:
+      - overview-and-principles.md
+      - core-rules.md
+      - character-creation.md
+      - spells.md
+      - marketplace.md

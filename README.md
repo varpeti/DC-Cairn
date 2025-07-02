@@ -10,7 +10,7 @@ It is work in progress.
 - [Core Rules](/core-rules.md)
   - [Spells](/spells.md)
 - [Character Creation](/character-creation.md)
-  - [Backgrounds](/backgrounds/backgrounds.md)
+  - [Backgrounds](/backgrounds)
   - [Marketplace](/marketplace.md)
 
 ## Character Sheet
