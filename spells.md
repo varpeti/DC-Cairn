@@ -3,7 +3,7 @@
 - `[dice]` are equal to **Magic Dice** invested in the spell.
 - `[sum]` is a number equal to the sum of rolled **Magic Dice**.
 - An **item** is anything you can lift with one hand, and an **object** is anything up to human sized.
-- Unless otherwise noted, all spells with ongoing effects last up to  `[sum]`×10 minutes (`[sum]`*5 Rounds in combat), and have a range of up to 12 meter (= 8 Space = 40 feet).
+- Unless otherwise noted, all spells with ongoing effects last up to  `[sum]`×1 minutes (`[sum]`*0.5 Rounds in combat, rounded up), and have a range of up to 12 meter (= 8 Space = 40 feet).
 - The spell list is based on the [Cairn's GLOG Spells hack](https://cairnrpg.com/hacks/glog-spells) and [Cairn's More Spellbooks](https://cairnrpg.com/resources/more-spellbooks) also see the [References](#references)
 
 ## Spell list
