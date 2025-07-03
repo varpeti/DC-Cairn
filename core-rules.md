@@ -12,7 +12,7 @@ These are not universal descriptors. A character with a low **STR** is not neces
 
 ## Hit Protection (HP)
 
-- It reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/core-rules#healing-and-recovery).
+- It reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing and Recovery](/core-rules#healing-and-recovery).
 - If an attack would take a PC's HP exactly or under 0, the player must roll on the [**Scars**](#scars) table.
 
 ## Inventory
@@ -205,7 +205,7 @@ A Save is a roll to avoid negative outcomes.
   - The Warden decides the AP cost of a described Action based on how long it takes.
 - Each Creature regains its maximum AP at their end of turn. (Tip: Use all of your AP, before the end of your turn)
 
-### Attacking & Damage
+### Attacking and Damage
 
 - The attacker describes the [Attack](#actions) they want to do, the target(s) describes their [Defense](#actions). It it hits:
   - The result of the Attacker [Object Dice](#object-dice) minus the Target Armor is the damage.

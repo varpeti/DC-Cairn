@@ -42,16 +42,16 @@
 | Carriage Seat            | 5   |
 | Ship's Passage           | 10  |
 
-## Upkeep & Recovery
+## Upkeep and Recovery
 
-|                               |     |
-| ----------------------------- | --- |
-| Room & Board (per night)      | 10  |
-| Private Room & Board (fits 4) | 35  |
-| Stable & Feed (per night)     | 5   |
-| Medical Healing               | 50  |
-| Rations (3 uses)              | 10  |
-| Animal Feed (3 uses, bulky)   | 5   |
+|                                 |     |
+| -----------------------------   | --- |
+| Room and Board (per night)      | 10  |
+| Private Room and Board (fits 4) | 35  |
+| Stable and Feed (per night)     | 5   |
+| Medical Healing                 | 50  |
+| Rations (3 uses)                | 10  |
+| Animal Feed (3 uses, bulky)     | 5   |
 
 ## Hirelings (per day)
 
@@ -180,11 +180,11 @@
 | Dress/Gown            | 40       | Tunic                                       | 45       |
 | Dress/Gown, silk      | 80       | Tunic, silk                                 | 55       |
 
-## Food & Drink
+## Food and Drink
 
 |                                     |          |                          |          |
 | ----------------------------------- | -------- | ------------------------ | -------- |
-| **Food & Drink**                    | **Cost** | **Food & Drink**         | **Cost** |
+| **Food and Drink**                  | **Cost** | **Food and Drink**       | **Cost** |
 | Alcohol, mead (half-gallon pitcher) | 1        | Fowl, turkey (whole)     | 15       |
 | Alcohol, beer                       | 3        | Fish, common             | 2        |
 | Alcohol, wine, poor (bottle)        | 4        | Fish, game fish          | 6        |
@@ -210,7 +210,7 @@
 | Dried Fruit (pound)                 | 1        | Nuts (pound)             | 3        |
 | Dried Vegetables (pound)            | 1        | Pork, steak              | 4        |
 | Eggs (dozen)                        | 1        | Pork, side               | 20       |
-| Fowl,  pigeon (whole)               | 3        | Pork, whole pig          | 50       |
+| Fowl, pigeon (whole)                | 3        | Pork, whole pig          | 50       |
 | Fowl, chicken (whole)               | 5        | Rabbit/Squirrel          | 8        |
 | Fowl, duck (whole)                  | 8        | Rice (pound)             | 1        |
 | Fowl, goose (whole)                 | 12       | Salt (pound)             | 4        |
@@ -285,44 +285,44 @@ Salaries presented as wage per week. For treasure percentage, refer to the ficti
 | Hay (25 lbs)    | 10       |
 | Straw (25 lbs)  | 7        |
 
-## Tools & Gear
+## Tools and Gear
 
-|                       |          |                             |          |
-| --------------------- | -------- | --------------------------- | -------- |
-| **Item**              | **Cost** | **Item**                    | **Cost** |
-| Air Bladder           | 5        | Lockpicks                   | 25       |
-| Barding (horse armor) | 150      | Manacles                    | 10       |
-| Bellows               | 10       | Metal File                  | 5        |
-| Bedroll               | 5        | Mirror                      | 5        |
-| Book                  | 50       | Net                         | 10       |
-| Bucket                | 5        | Oil (1 flask)               | 2        |
-| Caltrops              | 10       | Oilskin Bag                 | 5        |
-| Chain (3m)            | 10       | Perfume (oz)                | 15       |
-| Chalk                 | 1        | Pick                        | 10       |
-| Chisel                | 5        | Pipe                        | 3        |
-| Cook Pots             | 10       | Pulley                      | 10       |
-| Crowbar               | 10       | Pole (3m)                   | 5        |
-| Dowsing rod           | 10       | Quill & Ink                 | 10       |
-| Drill (Manual)        | 10       | Rations (three day’s worth) | 10       |
-| Face Paint            | 10       | Rope (7.5m)                 | 5        |
-| Fire Oil              | 10       | Rope ladder (7.5m)          | 25       |
-| Fishing Rod           | 10       | Saw                         | 5        |
-| Glass Marbles         | 5        | Sack                        | 5        |
-| Glue                  | 5        | Saddle and bridle           | 25       |
-| Grease                | 10       | Sewing kit                  | 15       |
-| Grappling Hook        | 25       | Shovel                      | 5        |
-| Hammer                | 5        | Soap                        | 1        |
-| Holy Symbol           | 25       | Spike                       | 1        |
-| Holy Water (vial)     | 25       | Spiked Boots                | 5        |
-| Horn                  | 10       | Spyglass                    | 40       |
-| Hourglass             | 50       | Stakes (3) and mallet       | 3        |
-| Incense               | 10       | Tar                         | 10       |
-| Ladder (bulky, 3m)   | 10       | Tent (fits 2 people, bulky) | 20       |
-| Lantern & Oil         | 10       | Tinder box (flint & steel)  | 3        |
-| Lock - (key included) | 30       | Torch                       | 1        |
-| Large Trap            | 20       | Waterskin                   | 1        |
-| Large Sponge          | 5        | Whistle                     | 5        |
-| Lens                  | 10       | Wolfsbane                   | 10       |
+|                       |          |                              |          |
+| --------------------- | -------- | ---------------------------  | -------- |
+| **Item**              | **Cost** | **Item**                     | **Cost** |
+| Air Bladder           | 5        | Lockpicks                    | 25       |
+| Barding (horse armor) | 150      | Manacles                     | 10       |
+| Bellows               | 10       | Metal File                   | 5        |
+| Bedroll               | 5        | Mirror                       | 5        |
+| Book                  | 50       | Net                          | 10       |
+| Bucket                | 5        | Oil (1 flask)                | 2        |
+| Caltrops              | 10       | Oilskin Bag                  | 5        |
+| Chain (3m)            | 10       | Perfume (oz)                 | 15       |
+| Chalk                 | 1        | Pick                         | 10       |
+| Chisel                | 5        | Pipe                         | 3        |
+| Cook Pots             | 10       | Pulley                       | 10       |
+| Crowbar               | 10       | Pole (3m)                    | 5        |
+| Dowsing rod           | 10       | Quill and Ink                | 10       |
+| Drill (Manual)        | 10       | Rations (three day’s worth)  | 10       |
+| Face Paint            | 10       | Rope (7.5m)                  | 5        |
+| Fire Oil              | 10       | Rope ladder (7.5m)           | 25       |
+| Fishing Rod           | 10       | Saw                          | 5        |
+| Glass Marbles         | 5        | Sack                         | 5        |
+| Glue                  | 5        | Saddle and bridle            | 25       |
+| Grease                | 10       | Sewing kit                   | 15       |
+| Grappling Hook        | 25       | Shovel                       | 5        |
+| Hammer                | 5        | Soap                         | 1        |
+| Holy Symbol           | 25       | Spike                        | 1        |
+| Holy Water (vial)     | 25       | Spiked Boots                 | 5        |
+| Horn                  | 10       | Spyglass                     | 40       |
+| Hourglass             | 50       | Stakes (3) and mallet        | 3        |
+| Incense               | 10       | Tar                          | 10       |
+| Ladder (bulky, 3m)    | 10       | Tent (fits 2 people, bulky)  | 20       |
+| Lantern and Oil       | 10       | Tinder box (flint and steel) | 3        |
+| Lock - (key included) | 30       | Torch                        | 1        |
+| Large Trap            | 20       | Waterskin                    | 1        |
+| Large Sponge          | 5        | Whistle                      | 5        |
+| Lens                  | 10       | Wolfsbane                    | 10       |
 
 ## Transport: Animals
 

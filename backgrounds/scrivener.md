@@ -11,7 +11,7 @@ Lazlo, Stilo, Akshara, Pisa, Ji-Yun, Kalamos, Hugo, Shui, Kalam, Julius
 - 3d6 Gold Pieces
 - Rations (3 uses)
 - Torch (3 uses)
-- Quill & Ink
+- Quill and Ink
 - Blank Book
 - Awl (d6)
 - Badge (_petty_)

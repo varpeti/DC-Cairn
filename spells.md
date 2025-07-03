@@ -228,7 +228,7 @@
 | 422 | [Miniaturize](#miniaturize)                                 | An object shrinks to one tenth its size.                                                                                                                                                |
 | 423 | [Minor Aegis](#minor-aegis)                                 | A target you touch ignores the next instance of harm from a specific source.                                                                                                            |
 | 424 | [Minor Genesis](#minor-genesis)                             | Creates an object of nonliving matter no greater than one cubic foot in size.                                                                                                           |
-| 425 | [Mirage](#mirage)                                           | You summon a noiseless & simple illusion of your choice.                                                                                                                                |
+| 425 | [Mirage](#mirage)                                           | You summon a noiseless and simple illusion of your choice.                                                                                                                              |
 | 426 | [Molasses Veins](#molasses-veins)                           | A single target moves at half speed.                                                                                                                                                    |
 | 431 | [Murky Bubble](#murky-bubble)                               | You create a bubble supernatural shadow within a 20ft radius.                                                                                                                           |
 | 432 | [Necrotic Touch](#necrotic-touch)                           | Target must DEX save or is paralyzed.                                                                                                                                                   |
@@ -329,8 +329,8 @@
 
 ### References
 
-- Chris McDowall's [Want a Simplified D&D Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)
-- Mike Evan's [The Concise Spell List for ANY Version of D&D or OSR](https://wrathofzombie.wordpress.com/2012/07/20/the-concise-spell-list-for-any-version-of-dd-or-osr/)
+- Chris McDowall's [Want a Simplified DnD Spell List?](https://www.bastionland.com/2012/08/want-simplified-d-spell-list.html)
+- Mike Evan's [The Concise Spell List for ANY Version of DnD or OSR](https://wrathofzombie.wordpress.com/2012/07/20/the-concise-spell-list-for-any-version-of-dd-or-osr/)
 - Goblin Punch's [GLOG Wizard](https://drive.google.com/file/d/0BxVHEMMjLlZ4UWYzX3o1UnEtd0U/view?resourcekey=0-ZqZEVaSwAMdy_U8B-AF0iA)
 - [The Hypertext d20 SRD](https://www.d20srd.org/srd/spells/)
 - [Wizards of the Coast SRD](https://dnd.wizards.com/articles/features/systems-reference-document-srd)

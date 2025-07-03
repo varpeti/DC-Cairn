@@ -1,4 +1,4 @@
-# Overview & Principles
+# Overview and Principles
 
 ## Overview
 
